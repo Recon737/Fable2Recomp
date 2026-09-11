@@ -2,7 +2,6 @@
 
 This Project is still being worked on for updates or to help join the discord!
 
-<img width="1280" height="748" alt="image" src="https://github.com/user-attachments/assets/e222c097-c742-4cc8-b85e-1f0e89530058" />
 <img width="1280" height="748" alt="image" src="https://github.com/user-attachments/assets/fb87ed20-4171-4ef0-b428-d1a4b484d4a0" />
 <img width="1280" height="748" alt="image" src="https://github.com/user-attachments/assets/8f8b170f-412f-419d-8f3b-900876d70c16" />
 <img width="1280" height="748" alt="image" src="https://github.com/user-attachments/assets/47b674f1-cbfc-41c0-8418-0ea1ceecc86b" />
