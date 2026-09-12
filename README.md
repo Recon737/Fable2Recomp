@@ -2,13 +2,6 @@
 
 This Project is still being worked on for updates or to help join the discord!
 
-<img width="1280" height="748" alt="image" src="https://github.com/user-attachments/assets/fb87ed20-4171-4ef0-b428-d1a4b484d4a0" />
-<img width="1280" height="748" alt="image" src="https://github.com/user-attachments/assets/8f8b170f-412f-419d-8f3b-900876d70c16" />
-<img width="1280" height="748" alt="image" src="https://github.com/user-attachments/assets/47b674f1-cbfc-41c0-8418-0ea1ceecc86b" />
-<img width="1280" height="748" alt="image" src="https://github.com/user-attachments/assets/f6e1168b-cf36-4477-bcbb-9fbe75cb4f5f" />
-
-
-
 **Fable2Recomp** is a recompilation Project with hopes to port the game Fable 2 to Windows and Linux. It uses a static recompilation approach based on the [ReXGlue](https://github.com/rexglue/rexglue-sdk) project, streamlining the process and fixing various issues that may arise during decompilation and recompilation.
 
 This Recomp is currently based off [Fable 2](https://en.wikipedia.org/wiki/Fable_II) GOTY TU1
